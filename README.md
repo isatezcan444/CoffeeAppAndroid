@@ -1,7 +1,7 @@
 🎬 App Preview
 
 <p align="center">
-  <img src="Assets/CoffeeAppPreview.jpg" width="400" alt="Coffee App Preview">
+  <img src="Assets/CoffeeAppPreview.jpg" width="480" alt="Coffee App Preview">
 </p>
 
 🇹🇷 Türkçe
